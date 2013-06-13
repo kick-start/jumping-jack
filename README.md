@@ -20,6 +20,7 @@ the terminal.
 And that's all there is to it! Just have fun. Go ahead and edit the code, 
 or add new files. It's all up to you! 
 
+
 Happy coding!
 The Cloud9 IDE team
 
